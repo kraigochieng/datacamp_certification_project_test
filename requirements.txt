@@ -7,3 +7,4 @@ pandas
 ipykernel
 imbalanced-learn
 graphviz
+statsmodels
